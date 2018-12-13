@@ -3,10 +3,11 @@
 The Guide Drawer helps a user learn about the product by letting them use the real UI.
 
 ## Visual Examples
-
-| Add options to the drawer so that the user can choose where to go next. | ![](https://drive.google.com/uc?id=19uRGfYFWxSn7sRrlVIAXy5MsV7fcucQ1) |
-| A typical guide step includes instructive copy telling the user how to use the normal product interface and can include external links to more information. | ![](https://drive.google.com/uc?id=1tUvdz24bEEJalNCHKez3SyIW6dO5H-kL) |
-| Drawer content can include things like images, illustrations or videos. | ![](https://drive.google.com/uc?id=1lS44XB8knV1ORL7dkcas8_02VA02M-eJ) |
+| Example | Description|
+| :---: |---|
+| ![](https://drive.google.com/uc?id=19uRGfYFWxSn7sRrlVIAXy5MsV7fcucQ1) | Add options to the drawer so that the user can choose where to go next. |
+| ![](https://drive.google.com/uc?id=1tUvdz24bEEJalNCHKez3SyIW6dO5H-kL) | A typical guide step includes instructive copy telling the user how to use the normal product interface and can include external links to more information. |
+| ![](https://drive.google.com/uc?id=1lS44XB8knV1ORL7dkcas8_02VA02M-eJ) | Drawer content can include things like images, illustrations or videos. |
 
 ## Best Practices
 
