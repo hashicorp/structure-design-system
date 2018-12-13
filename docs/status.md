@@ -4,8 +4,8 @@
 
 ## Styleguide Variables
 
-| Variables	 | Sketch | Design Docs | Code | Code Docs |
-| ---        | :---: | :---: | :---: | :---: |
+| Name | Prefix | Sketch | Design Docs | Code | Code Docs |
+| --- | --- | :---: | :---: | :---: | :---: |
 | Borders    | - | ✅ | ❌ | ❌ | ❌ |
 | Colors     | - | ✅ | ❌ | ❌ | ❌ |
 | Elevations | - | ✅ | ❌ | ❌ | ❌ |
