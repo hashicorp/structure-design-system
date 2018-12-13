@@ -17,7 +17,7 @@ Our Design System is designed in Sketch and [stored in Abstract](https://share.g
 
 #### What should go in Structure?
 
-The most obvious candidate is if we are using the same design pattern (or similar variants) in multiple products. If you have a component you think we should be using or think that we could be doing something better, these are also good bets. Not sure? Ask in [#proj-product-ds](https://hashicorp.slack.com/messages/C7KTUHNUS/)
+The most obvious candidate are those design patterns (or similar variants) used in multiple products. If you have a component you think we should be using or think that we could be doing something better, these are also good bets. Not sure? Ask in [#proj-product-ds](https://hashicorp.slack.com/messages/C7KTUHNUS/)
 
 ## Questions or Feedback
 
