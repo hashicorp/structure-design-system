@@ -6,6 +6,7 @@ Structure is a Design System for HashiCorp Web UI projects.
 
 #### Read the Documentation
 
+- [Status](docs/status.md)
 - [Components](docs/components)
 
 #### Design
