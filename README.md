@@ -4,7 +4,7 @@ Structure is a Design System for HashiCorp Web UI projects.
 
 ## Getting Started
 
-#### Documentation
+#### Read the Documentation
 
 - [Components](docs/components)
 
