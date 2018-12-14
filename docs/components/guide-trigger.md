@@ -10,30 +10,27 @@ The Guide Trigger provides information related to the Guide Drawer. This is usua
 
 ## Best Practices
 
-### Guide Triggers should...:
-
-- ✅ Stay fixed to the lower-right of the viewport on desktop, and fixed to the bottom of the viewport on mobile
-- ✅ Be 12px below the header and 12px from the edge of the viewport, just like the drawer
-- ✅ Include a horizontal line on the intro trigger that should match the product brand color, but brand colors appear nowhere else
-- ✅ Be the same width as the drawer that will open
-- ⛔️ Never take more than a single click to dismiss
+### Guide Triggers:
+- Triggers should stay fixed to the upper-right of the viewport on desktop, and fixed to the bottom of the viewport on mobile
+- Position the trigger 12px below the header and 12px from the edge of the viewport, just like the drawer
+- Include a horizontal line on the intro trigger that should match the product brand color, but brand colors appear nowhere else
+- The trigger should be the same width as the drawer that will open
+- The trigger should never take more than a single click to dismiss
   - If the user closes a trigger, it should not appear again when they revisit the page
   - If you need to remind the user of the guide, use the more subtle later trigger with simple "Learn about X" copy
   - If the user closes a feature-specific trigger, it should not show up again anywhere in the feature
 
-### Trigger titles should...:
+### Trigger titles:
+- Keep the title short (preferably a single word)
+- The title should never be more than one line
+- Use title-case
+- Inform the user what they will be touring
 
-- ✅ Be short (preferably a single word)
-- ✅ Be title-case
-- ✅ Inform the user what they will be touring
-- ⛔️ Never be more than one line
 
-
-### Trigger content should be...:
-
-- ✅ Supportive of and related to the title
-- ✅ Short (and preferably 3 lines or shorter)
-- ⛔️ Not included in the later trigger style
+### Trigger content:
+- Should be supportive of and related to the title
+- Keep the content short (preferably 3 lines or shorter)
+- There should not be any content in the "later" trigger style
 
 ## References
 

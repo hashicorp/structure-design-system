@@ -10,34 +10,30 @@ The Guide Drawer helps a user learn about the product by letting them use the re
 
 ## Best Practices
 
-### Guide Drawers should...:
+### Guide Drawers:
+- The drawer container should be fixed to the right of the viewport on desktop, 12px of spacing below the header and on the right and bottom sides
+- The user should be able to easily dismiss the drawer through the "..." context menu in the upper right
+- Use a section title, a page title, and instructive copy
+- Indicate the progress through the progress bar including milestones
+- The drawer should be hidden unless triggered by a Guide Trigger
 
-- ✅ Stay fixed to the right of the viewport on desktop, 12px of spacing below the header and on the right and bottom sides
-- ✅ Be easily dismissed through the "..." context menu in the upper right
-- ✅ Include a section title, a page title, and instructive copy
-- ✅ Indicate the progress through the progress bar including milestones
-- ⛔️ Not be shown unless triggered by a Guide Trigger
+### Drawer section titles:
+- Keep the title short (preferably a single word for that feature)
+- Use title-case
+- Make sure the page titles and step titles match to help orient the user during multi-step tours
 
-### Drawer section titles should...:
+### Drawer content:
+- Content should describe what the user is seeing on the screen
+- Give the user instructions for what they should do and why
+- Include links to outside references such as Learn pages, Docs, API docs, videos, etc
+- Rely on docs to provide depth of knowledge rather than distract from the page content
+- Give the user an expectation of time required ("About 10 minutes") next to the Start button when choosing features to tour
+- Do not use acronyms or product-specific jargon without explaining them
 
-- ✅ Be short (preferably a single word for that feature)
-- ✅ Be title-case
-- ✅ Match the step titles to help orient the user during multi-step tours
-
-### Drawer content should...:
-
-- ✅ Describe what the user is seeing on the screen
-- ✅ Include instructions for what the user should do and why
-- ✅ Include links to outside references such as Learn pages, Docs, API docs, videos, etc
-- ✅ Rely on docs to provide depth of knowledge rather than distract from the page content
-- ✅ Give the user an expectation of time required ("About 10 minutes") next to the Start button when choosing features to tour
-- ⛔️ Never use acronyms or product-specific jargon without explaining them
-
-### Drawer progress bars should...:
-
-- ✅ Show a tooltip on hover showing the section title and "Step X of Y". Do not include the step copy elsewhere in the drawer.
-- ✅ Always end the last step showing the final milestone as completed and include congratulatory copy
-- ⛔️ Never show an empty progress bar. If a user is on step 1 of 3, think of it as 0 of 4 and show the bar 25% filled. This helps the user feel that just getting started is the first step.
+### Drawer progress bars:
+- The progress bar should show a tooltip on hover showing the section title and "Step X of Y". Do not include the step copy elsewhere in the drawer.
+- Always end the last step showing the final milestone as completed and include congratulatory copy
+- Never show an empty progress bar when the user is on the first step. If they are on step 1 of 3, think of it as 0 of 4 and show the bar 25% filled. This helps the user feel that they've already started just by being in the right place.
 
 ## References
 
