@@ -11,7 +11,7 @@ The Guide Drawer helps a user learn about the product by letting them use the re
 ## Best Practices
 
 ### Guide Drawers:
-- The drawer container should be fixed to the right of the viewport on desktop, 12px of spacing below the header and on the right and bottom sides
+- The drawer container should be fixed to the right of the viewport on desktop
 - The user should be able to easily dismiss the drawer through the "..." context menu in the upper right
 - Use a section title, a page title, and instructive copy
 - Indicate the progress through the progress bar including milestones

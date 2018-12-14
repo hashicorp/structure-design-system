@@ -12,7 +12,6 @@ The Guide Trigger provides information related to the Guide Drawer. This is usua
 
 ### Guide Triggers:
 - Triggers should stay fixed to the upper-right of the viewport on desktop, and fixed to the bottom of the viewport on mobile
-- Position the trigger 12px below the header and 12px from the edge of the viewport, just like the drawer
 - Include a horizontal line on the intro trigger that should match the product brand color, but brand colors appear nowhere else
 - The trigger should be the same width as the drawer that will open
 - The trigger should never take more than a single click to dismiss
