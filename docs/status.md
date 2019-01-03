@@ -36,7 +36,7 @@
 | Loader            | - | ✅ | ❌ | ❌ | ❌ |
 | Modal             | - | ✅ | ❌ | ❌ | ❌ |
 | Page Title        | - | ✅ | ❌ | ❌ | ❌ |
-| Pagination        | - | ✅ | ❌ | ❌ | ❌ |
+| Pagination        | - | ✅ | 🚧 | ❌ | ❌ |
 | Progress Bar      | - | ✅ | ❌ | ❌ | ❌ |
 | Progress Column   | - | ✅ | ❌ | ❌ | ❌ |
 | Progress Ring     | - | ✅ | ❌ | ❌ | ❌ |
