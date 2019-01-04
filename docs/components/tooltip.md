@@ -1,20 +1,20 @@
 # Tooltip
 
-Tooltips are used to provide infrequently accessed, supporting information that would otherwise clutter the user interface. 
+Tooltips are used to provide  explanatory information that would otherwise clutter the user interface. 
 
 ## Visual Examples
 
-> TODO
+| Default | Long Text |
+ | --- | --- | 
+| ![Default tooltip](https://drive.google.com/uc?id=1mQ9dWOHT1eIXwURSZKwtKSWGaZDJn4L_) | ![Tooltip with long text](https://drive.google.com/uc?id=1PoQAJShCMW2xzBK02XwYrrUuRIiL8iAx) |
+| Default positioning is bottom left, but this can be overridden. The arrow should point toward the triggering element.  | The tooltip container should fit the content width. In cases of long strings, a max-width is enforced and the text should wrap. | 
 
 ## Best Practices
 
-- Content should be brief, usually no longer than one or two sentences. 
+- Content should be brief, usually a phrase long and rarely exceeding two sentences. 
 - The tooltip should be positioned so that the content is fully visible within the viewport.
-- The arrow should point toward the triggering element.
-- The default position, relative to the triggering element, is down right. 
 - Variations enable the tooltip to be positioned either above or below the triggering element with left, center, or right biasing. 
-- The tooltip container should fit the content width. In cases of long strings, a max-width is enforced and the text should wrap.
-- Because they require users to actively engage with them, tooltips are not ideal for conveyinh critical and/or frequently-accessed information.
+- Because they require users to actively engage with them, tooltips are not ideal for conveying critical and/or frequently-accessed information.
 
 ## Resources
 
