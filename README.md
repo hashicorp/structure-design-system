@@ -36,6 +36,7 @@ The content of each entry is flexible and evolving. Generally speaking, however,
 1. Assign yourself a Task on the [Structure Asana Board](https://app.asana.com/0/932595914516336/board).
 1. Create a new branch off of `master`. 
 1. Make your edits or additions. 
+1. Add images to [Google Drive](https://drive.google.com/drive/folders/11vuTznb1M-_SFxSILxqjdkF_R8g7p9ya) if needed. Make sure Link Sharing is enabled and anyone with the link can access it. 
 1. Update [Status.md](docs/status.md) if needed.
 1. Edit the Table of Contents in the [Readme](docs/components/README.md) if needed.
 1. Submit your changes as a Pull Request and request a review. 
