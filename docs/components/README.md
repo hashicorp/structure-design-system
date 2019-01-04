@@ -3,3 +3,4 @@
 - Guides ("Wizards")
   - [Guide Drawer](guide-drawer.md)
   - [Guide Trigger](guide-trigger.md)
+  - [Tooltip](tooltip.md)
