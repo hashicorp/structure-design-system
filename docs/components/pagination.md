@@ -16,19 +16,19 @@ Pagination enables users to navigate a set of records that are distributed acros
 
 The basic state does not contain Page Controls. 
 
-![](https://drive.google.com/uc?id=1VFRLGqWlcxBb19Fb7ZCoIFIS6ijj3beo)
+![Basic Pagination](https://drive.google.com/uc?id=1VFRLGqWlcxBb19Fb7ZCoIFIS6ijj3beo)
 
 ### With Table Footer
 
 Pagination can be enclosed within a table footer. 
 
-![](https://drive.google.com/uc?id=1wq5Hk9jNUNYYI5fsIteoaCaVdM7Xf7wl)
+![Pagination inside a table footer](https://drive.google.com/uc?id=1wq5Hk9jNUNYYI5fsIteoaCaVdM7Xf7wl)
 
 ### With Page Controls
 
 The designer may elect to allow users to change the number of results per page. 
 
-![](https://drive.google.com/uc?id=1IJr95MN_ga6OVFJKQjz8MgTJ911R8_56)
+![Pagination with Page Controls](https://drive.google.com/uc?id=1IJr95MN_ga6OVFJKQjz8MgTJ911R8_56)
 
 
 
