@@ -10,10 +10,27 @@ Pagination enables users to navigate a set of records that are distributed acros
 | Summary Label | Indicates the range of results shown on the current page | Yes | 
 | Page Controls | Allows user to increase / decrease the number of records displayed per page | No | 
 
-
 ## Visual Examples
 
-> TODO: Update when pagination updates have been merged.
+### Basic
+
+The basic state does not contain Page Controls. 
+
+![](https://drive.google.com/uc?id=1VFRLGqWlcxBb19Fb7ZCoIFIS6ijj3beo)
+
+### With Table Footer
+
+Pagination can be enclosed within a table footer. 
+
+![](https://drive.google.com/uc?id=1wq5Hk9jNUNYYI5fsIteoaCaVdM7Xf7wl)
+
+### With Page Controls
+
+The designer may elect to allow users to change the number of results per page. 
+
+![](https://drive.google.com/uc?id=1IJr95MN_ga6OVFJKQjz8MgTJ911R8_56)
+
+
 
 ## Best Practices
 
