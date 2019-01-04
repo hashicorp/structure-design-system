@@ -38,7 +38,7 @@ The content of each entry is flexible and evolving. Generally speaking, however,
 - Make your edits or additions. 
 - Add images to [Google Drive](https://drive.google.com/drive/folders/11vuTznb1M-_SFxSILxqjdkF_R8g7p9ya) if needed. 
   - Export the image in 2x pixel density.
-  - Use the naming convention `component_<component-name>_<name-of-state>`.
+  - Use the naming convention `components_<component-name>_<name-of-state>`.
   - Make sure Link Sharing is enabled and that anyone with the link can access it.
   - Link directly to the image using the URL `https://drive.google.com/uc?id=<YOUR_IMAGE_ID>`.
 - Update [Status.md](docs/status.md) if needed.
