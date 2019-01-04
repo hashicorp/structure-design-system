@@ -26,7 +26,7 @@ The content of each entry is flexible and evolving. Generally speaking, however,
 | Section | Description | 
 | --- | --- |
 | Overview | 1-2 line description of the component and it's purpose. |
-| Visual Examples | Screenshots of the component and any important states. Store these in [Google Drive](https://drive.google.com/drive/folders/11vuTznb1M-_SFxSILxqjdkF_R8g7p9ya). | 
+| Visual Examples | Screenshots of the component and any important states. | 
 | Best Practices | Instructions for usage. Include functional requirements if they are significant and not apparent. Omit design characteristics like spacing, color, and fonts, that can be derived from Abstract. | 
 | References | Link to any additional materials that are helpful. At a minimum, link to the Abstract artboard (master branch). |
 | Related Components | Link to any other components that share similar functionality, have similar aesthetics, or solve similar problems. | 
