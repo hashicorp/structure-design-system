@@ -40,7 +40,7 @@ The content of each entry is flexible and evolving. Generally speaking, however,
   - Export the image in 2x pixel density.
   - Use the naming convention `component_<component-name>_<name-of-state>`.
   - Make sure Link Sharing is enabled and that anyone with the link can access it.
-  - Link directly to the image using the url `https://drive.google.com/uc?id=<YOUR_IMAGE_ID>`.
+  - Link directly to the image using the URL `https://drive.google.com/uc?id=<YOUR_IMAGE_ID>`.
 - Update [Status.md](docs/status.md) if needed.
 - Update the Table of Contents in the [Readme](docs/components/README.md) if needed.
 - Submit your changes as a Pull Request and request a review. 
