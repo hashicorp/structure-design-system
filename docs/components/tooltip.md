@@ -12,8 +12,7 @@ Tooltips are used to provide  explanatory information that would otherwise clutt
 ## Best Practices
 
 - Content should be brief, usually a phrase long and rarely exceeding two sentences. 
-- The tooltip should be positioned so that the content is fully visible within the viewport.
-- Variations enable the tooltip to be positioned either above or below the triggering element with left, center, or right biasing. 
+- The tooltip should be positioned so that the content is fully visible within the viewport. Variations enable the tooltip to be positioned either above or below the triggering element with left, center, or right biasing. 
 - Because they require users to actively engage with them, tooltips are not ideal for conveying critical and/or frequently-accessed information.
 
 ## Resources
