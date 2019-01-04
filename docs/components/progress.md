@@ -15,7 +15,7 @@ Three different formats are available to suit space constraints and desired aest
 
 ### With additional feedback
 
-| Bar with text | Column with Text | Ring with tooltip | 
+| Bar with text | Column with text | Ring with tooltip | 
 | --- | --- | --- |
 | ![Bar with text](https://drive.google.com/uc?id=1VWaMGVwRe6eT8M3_AQSpSV6q3-eLwFI4) |  ![Column with text](https://drive.google.com/uc?id=1hJG88hJdbX4U3w5knBeflKyqLprQ-GTd) |     ![Ring with tooltip](https://drive.google.com/uc?id=1DuaD3DEtee1h2dSnZWXgn8Pvw588iYyF) |
 
@@ -23,7 +23,7 @@ Three different formats are available to suit space constraints and desired aest
 
 - Use one of these elements when it's meaningful to communicate progress toward completion. 
 - Use when the progress toward completion is known (or can be reliably estimated).
-- The blank version of the progress meters can be confusing. Consider showing Step 1 of a process as having already partial completion (e.g. Step 1/3 might already show 33% finished)
+- The blank version of the progress meters can be confusing. Consider showing Step 1 of a process as having already partial completion (e.g. Step 1/3 might already show 33% finished).
 - Rather than showing a completed bar, consider replacing it with the action to take next.
 - Include a tooltip or helper text near the progress meter to help give details and explain what the progress meter is measuring.
 
