@@ -44,7 +44,7 @@ The designer may elect to allow users to change the number of results per page.
 
 ### Page Buttons
 
-- Show at most 6 Page Buttons
+- Show at most 7 Page Buttons
 - Always show the first and last page 
 - Use the Primary button style to identify the current page
 
@@ -59,9 +59,9 @@ The designer may elect to allow users to change the number of results per page.
 - Use ellipses (&hellip;) if the number of pages is greater than 6
 - When shown, ellipses appear immediately after the first page and/or immediately before the last page
 - The Page Buttons between ellipses may change depending on where the user is in the set. For example:
-  - [1] **[2]** [3] [4] [5] ... [50]
-  - [1] ... [29] **[30]** [31] [32] ... [50]
-  - [1] ... [46] **[47]** [48] [49] [50]
+  - [1] **[2]** [3] [4] [5] [6] ... [50]
+  - [1] ... [28] [29] **[30]** [31] [32] ... [50]
+  - [1] ... [45] [46] **[47]** [48] [49] [50]
 
 ## Summary Label
 
