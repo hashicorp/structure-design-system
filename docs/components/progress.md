@@ -15,6 +15,8 @@ Three different formats are available to suit space constraints and desired aest
 
 ### With additional feedback
 
+It's often helpful to also present the value of the progress element nearby. Below are a few ways of doing so. Ultimately, however, context and constraints will inform the most appropriate implementation.
+
 | Bar with text | Column with text | Ring with tooltip | 
 | --- | --- | --- |
 | ![Bar with text](https://drive.google.com/uc?id=1VWaMGVwRe6eT8M3_AQSpSV6q3-eLwFI4) |  ![Column with text](https://drive.google.com/uc?id=1hJG88hJdbX4U3w5knBeflKyqLprQ-GTd) |     ![Ring with tooltip](https://drive.google.com/uc?id=1DuaD3DEtee1h2dSnZWXgn8Pvw588iYyF) |
