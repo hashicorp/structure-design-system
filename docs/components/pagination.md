@@ -30,8 +30,6 @@ The designer may elect to allow users to change the number of results per page.
 
 ![Pagination with Page Controls](https://drive.google.com/uc?id=1IJr95MN_ga6OVFJKQjz8MgTJ911R8_56)
 
-
-
 ## Best Practices
 
 ### Usage
@@ -41,10 +39,10 @@ The designer may elect to allow users to change the number of results per page.
 - Left align the Summary Label and, if used, Page Controls
 - Optionally enclose the Pagination in a Table Footer
 - Don't display Pagination if there is only one page of results
+- Show at most 7 page buttons and/or ellipses
 
 ### Page Buttons
 
-- Show at most 7 Page Buttons
 - Always show the first and last page 
 - Use the Primary button style to identify the current page
 
@@ -59,9 +57,9 @@ The designer may elect to allow users to change the number of results per page.
 - Use ellipses (&hellip;) if the number of pages is greater than 6
 - When shown, ellipses appear immediately after the first page and/or immediately before the last page
 - The Page Buttons between ellipses may change depending on where the user is in the set. For example:
-  - [1] **[2]** [3] [4] [5] [6] ... [50]
-  - [1] ... [28] [29] **[30]** [31] [32] ... [50]
-  - [1] ... [45] [46] **[47]** [48] [49] [50]
+  - [1] **[2]** [3] [4] [5] ... [50]
+  - [1] ... [29] **[30]** [31] ... [50]
+  - [1] ... [46] [47] **[48]** [49] [50]
 
 ## Summary Label
 
