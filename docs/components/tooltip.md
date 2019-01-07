@@ -7,7 +7,7 @@ Tooltips are used to provide  explanatory information that would otherwise clutt
 | Default | Long Text |
  | --- | --- | 
 | ![Default tooltip](https://drive.google.com/uc?id=1mQ9dWOHT1eIXwURSZKwtKSWGaZDJn4L_) | ![Tooltip with long text](https://drive.google.com/uc?id=1PoQAJShCMW2xzBK02XwYrrUuRIiL8iAx) |
-| The default position is bottom left, but this can be overridden. The arrow should point toward the triggering element.  | The tooltip container should fit the content width. In cases of long strings, a max-width is enforced and the text should wrap. | 
+| The default position is bottom left, but this can be overridden. The arrow should point toward the triggering element. There should be 2px between the tooltip and the trigger.  | The tooltip container should fit the content width. In cases of long strings, a max-width is enforced and the text should wrap. | 
 
 ## Best Practices
 
