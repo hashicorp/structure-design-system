@@ -36,14 +36,14 @@
 | Loader            | - | ✅ | ❌ | ❌ | ❌ |
 | Modal             | - | ✅ | ❌ | ❌ | ❌ |
 | Page Title        | - | ✅ | ❌ | ❌ | ❌ |
-| Pagination        | - | ✅ | ❌ | ❌ | ❌ |
-| Progress Bar      | - | ✅ | 🚧 | ❌ | ❌ |
-| Progress Column   | - | ✅ | 🚧 | ❌ | ❌ |
-| Progress Ring     | - | ✅ | 🚧 | ❌ | ❌ |
+| Pagination        | - | ✅ | ✅ | ❌ | ❌ |
+| Progress Bar      | - | ✅ | ✅ | ❌ | ❌ |
+| Progress Column   | - | ✅ | ✅ | ❌ | ❌ |
+| Progress Ring     | - | ✅ | ✅ | ❌ | ❌ |
 | Section Title     | - | ✅ | ❌ | ❌ | ❌ |
 | Sidebar           | - | ✅ | ❌ | ❌ | ❌ |
 | Table             | - | ✅ | ❌ | ❌ | ❌ |
 | Tabs              | - | ✅ | ❌ | ❌ | ❌ |
 | Tags              | - | ✅ | ❌ | ❌ | ❌ |
-| Tooltip           | - | ✅ | 🚧 | ❌ | ❌ |
+| Tooltip           | - | ✅ | ✅ | ❌ | ❌ |
 | Top Nav           | - | ✅ | ❌ | ❌ | ❌ |
