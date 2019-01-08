@@ -37,9 +37,9 @@
 | Modal             | - | ✅ | ❌ | ❌ | ❌ |
 | Page Title        | - | ✅ | ❌ | ❌ | ❌ |
 | Pagination        | - | ✅ | ❌ | ❌ | ❌ |
-| Progress Bar      | - | ✅ | ❌ | ❌ | ❌ |
-| Progress Column   | - | ✅ | ❌ | ❌ | ❌ |
-| Progress Ring     | - | ✅ | ❌ | ❌ | ❌ |
+| Progress Bar      | - | ✅ | 🚧 | ❌ | ❌ |
+| Progress Column   | - | ✅ | 🚧 | ❌ | ❌ |
+| Progress Ring     | - | ✅ | 🚧 | ❌ | ❌ |
 | Section Title     | - | ✅ | ❌ | ❌ | ❌ |
 | Sidebar           | - | ✅ | ❌ | ❌ | ❌ |
 | Table             | - | ✅ | ❌ | ❌ | ❌ |
