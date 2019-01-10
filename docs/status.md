@@ -12,6 +12,13 @@
 | Typography | - | ✅ | ❌ | ❌ | ❌ |
 | Spacing    | - | ✅ | ❌ | ❌ | ❌ |
 
+## Layout
+
+| Name | Tag | Sketch | Design Docs | Code | Code Docs |
+| --- | --- | :---: | :---: | :---: | :---: |
+| Grid      | - | ✅ | 🚧 | ❌ | ❌ |
+| UI Regions      | - | ✅ | ❌ | ❌ | ❌ |
+
 ## Components
 
 | Name | Tag | Sketch | Design Docs | Code | Code Docs |
