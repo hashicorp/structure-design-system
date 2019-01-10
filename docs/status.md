@@ -16,7 +16,7 @@
 
 | Name | Tag | Sketch | Design Docs | Code | Code Docs |
 | --- | --- | :---: | :---: | :---: | :---: |
-| [Grid](layout/grid.md)      | - | ✅ | 🚧 | ❌ | ❌ |
+| [Grid](layout/grid.md) | - | ✅ | 🚧 | ❌ | ❌ |
 | UI Regions      | - | ✅ | ❌ | ❌ | ❌ |
 
 ## Components
@@ -35,22 +35,22 @@
 | Empty State       | - | ✅ | ❌ | ❌ | ❌ |
 | Footer            | - | ✅ | ❌ | ❌ | ❌ |
 | Guard Layout      | - | ✅ | ❌ | ❌ | ❌ |
-| [Guide Drawer](components/guide-drawer.md)      | - | ✅ | ✅ | ❌ | ❌ |
-| [Guide Trigger](components/guide-trigger.md)     | - | ✅ | ✅ | ❌ | ❌ |
+| [Guide Drawer](components/guide-drawer.md) | - | ✅ | ✅ | ❌ | ❌ |
+| [Guide Trigger](components/guide-trigger.md) | - | ✅ | ✅ | ❌ | ❌ |
 | Icon              | - | ✅ | ❌ | ❌ | ❌ |
 | Inputs            | - | ✅ | ❌ | ❌ | ❌ |
 | Lists             | - | ✅ | ❌ | ❌ | ❌ |
 | Loader            | - | ✅ | ❌ | ❌ | ❌ |
 | Modal             | - | ✅ | ❌ | ❌ | ❌ |
 | Page Title        | - | ✅ | ❌ | ❌ | ❌ |
-| [Pagination](components/pagination.md)        | - | ✅ | ✅ | ❌ | ❌ |
-| [Progress Bar](components/progress.md)      | - | ✅ | ✅ | ❌ | ❌ |
-| [Progress Column](components/progress.md)   | - | ✅ | ✅ | ❌ | ❌ |
-| [Progress Ring](components/progress.md)     | - | ✅ | ✅ | ❌ | ❌ |
+| [Pagination](components/pagination.md) | - | ✅ | ✅ | ❌ | ❌ |
+| [Progress Bar](components/progress.md) | - | ✅ | ✅ | ❌ | ❌ |
+| [Progress Column](components/progress.md) | - | ✅ | ✅ | ❌ | ❌ |
+| [Progress Ring](components/progress.md) | - | ✅ | ✅ | ❌ | ❌ |
 | Section Title     | - | ✅ | ❌ | ❌ | ❌ |
 | Sidebar           | - | ✅ | ❌ | ❌ | ❌ |
 | Table             | - | ✅ | ❌ | ❌ | ❌ |
 | Tabs              | - | ✅ | ❌ | ❌ | ❌ |
 | Tags              | - | ✅ | ❌ | ❌ | ❌ |
-| [Tooltip](components/tooltip.md)           | - | ✅ | ✅ | ❌ | ❌ |
+| [Tooltip](components/tooltip.md) | - | ✅ | ✅ | ❌ | ❌ |
 | Top Nav           | - | ✅ | ❌ | ❌ | ❌ |
