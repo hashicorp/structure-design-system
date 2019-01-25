@@ -1,6 +1,6 @@
 # Grid
 
-The grid allows components to be arranged in a consistent, orderly way. It is based on Bulma CSS.
+The grid allows components to be arranged in a consistent, orderly way. It is based on [Bulma CSS](https://bulma.io/documentation/columns/).
 
 ## Visual Examples
 
