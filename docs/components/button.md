@@ -10,7 +10,7 @@ Used to initiate an action, whether submit a form to kick off a workflow.
 
 ## Best Practices
 
-- Text buttons should be ≥ 100px wide. Icon-only buttons should be ≥ 36px wide.
+- Text buttons should be ≥ 100px wide. Icon-only buttons should be 36px wide.
 - Labels should be concise and sentence case.
 - Labels should be action-oriented and describe the action to be performed. Avoid using the label "Submit".
 - There should only be one primary button within a page, modal, or popover.
