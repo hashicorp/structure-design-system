@@ -28,7 +28,7 @@
 | Alert Popup                                  | -   |   ✅    |      ❌      |  ❌   |     ❌     |
 | Application Error                            | -   |   ✅    |      ❌      |  ❌   |     ❌     |
 | Breadcrumb                                   | -   |   ✅    |      ❌      |  ❌   |     ❌     |
-| Button                                       | -   |   ✅    |      ❌      |  ❌   |     ❌     |
+| Button                                       | -   |   ✅    |      ✅      |  ❌   |     ❌     |
 | Card                                         | -   |   ✅    |      ❌      |  ❌   |     ❌     |
 | Code Block                                   | -   |   ✅    |      ❌      |  ❌   |     ❌     |
 | Dropdown                                     | -   |   ✅    |      ❌      |  ❌   |     ❌     |
