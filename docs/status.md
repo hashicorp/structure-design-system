@@ -28,7 +28,7 @@
 | Alert Popup                                  | -   |   ✅    |      ❌      |  ❌   |     ❌     |
 | Application Error                            | -   |   ✅    |      ❌      |  ❌   |     ❌     |
 | Breadcrumb                                   | -   |   ✅    |      ❌      |  ❌   |     ❌     |
-| Button                                       | -   |   ✅    |      ✅      |  ❌   |     ❌     |
+| [Button](components/button.md)               | -   |   ✅    |      ✅      |  ❌   |     ❌     |
 | Card                                         | -   |   ✅    |      ❌      |  ❌   |     ❌     |
 | Code Block                                   | -   |   ✅    |      ❌      |  ❌   |     ❌     |
 | Dropdown                                     | -   |   ✅    |      ❌      |  ❌   |     ❌     |
