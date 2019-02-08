@@ -54,3 +54,9 @@
 | Tags                                         | -   |   ✅    |      ❌      |  ❌   |     ❌     |
 | [Tooltip](components/tooltip.md)             | -   |   ✅    |      ✅      |  ❌   |     ❌     |
 | Top Nav                                      | -   |   ✅    |      ❌      |  ❌   |     ❌     |
+
+## Principles
+
+| Name                                 | Tag | Sketch | Design Docs | Code | Code Docs |
+|--------------------------------------|-----|:------:|:-----------:|:----:|:---------:|
+| [Microcopy](principles/microcopy.md) | -   |   -    |      ✅      |  -   |     -     |
