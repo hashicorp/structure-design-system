@@ -1,3 +1,0 @@
-# Layout
-
-- [Grid](grid.md)
